@@ -24,7 +24,7 @@
     </formatting-settings>
   </DBN-SQL>
   <JavaCodeStyleSettings>
-    <option name="USE_FQ_CLASS_NAMES" value="true" />
     <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="50" />
   </JavaCodeStyleSettings>
 </code_scheme>
