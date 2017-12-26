@@ -25,6 +25,6 @@
   </DBN-SQL>
   <JavaCodeStyleSettings>
     <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
-    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="50" />
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="-1" />
   </JavaCodeStyleSettings>
 </code_scheme>
