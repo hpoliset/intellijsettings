@@ -89,6 +89,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'PullShadowOfferUpdateIntegrationTest.pus...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'PullShadowOfferUpdateIntegrationTest.pus...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'processedRecords()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -110,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>252</Count>
+          <Count>266</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -278,7 +286,23 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'PublishOfferUpdateIntegrationTest.pushOffer'</Description>
-          <Count>30</Count>
+          <Count>46</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PullShadowOfferUpdateIntegrationTest.pullOffer'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'PullShadowOfferUpdateIntegrationTest.pullOffer'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PullShadowOfferUpdateIntegrationTest.pushOffer'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'PullShadowOfferUpdateIntegrationTest.pushOffer'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Rerun Failed Tests'">
@@ -406,7 +430,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'PublishOfferUpdateIntegrationTest.pushOf...'</Description>
-          <Count>10</Count>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PullShadowOfferUpdateIntegrationTest.pus...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'PullShadowOfferUpdateIntegrationTest.pus...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'com.amazon.ags.pricesubmitter''">
@@ -534,7 +566,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'PublishOfferUpdateIntegrationTest.pushOffer'</Description>
-          <Count>6</Count>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PullShadowOfferUpdateIntegrationTest.pushOffer'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PullShadowOfferUpdateIntegrationTest.pushOffer'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Rerun Failed Tests'">
@@ -566,7 +606,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>87</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
