@@ -569,6 +569,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'PullShadowOfferUpdateIntegrationTest.pullOffer'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PullShadowOfferUpdateIntegrationTest.pullOffer'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'PullShadowOfferUpdateIntegrationTest.pushOffer'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
