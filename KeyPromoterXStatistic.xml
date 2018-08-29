@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>325</Count>
+          <Count>326</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -159,6 +159,14 @@
           <ShortCut>'⌥⌘M'</ShortCut>
           <Description>Method...</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
