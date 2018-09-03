@@ -41,6 +41,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'KinesisRecordHandlerTest.testPartition'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'KinesisRecordHandlerTest.testPartition'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'KinesisRecordHandlerTest.testValidAndInv...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -142,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>396</Count>
+          <Count>398</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -271,6 +279,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'KinesisRecordHandlerTest.testDeserializationFailure'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'KinesisRecordHandlerTest.testPartition'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'KinesisRecordHandlerTest.testPartition'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'KinesisRecordHandlerTest.testValidAndInvalidRecords'">
@@ -430,7 +446,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'KinesisRecordHandlerTest.testPartition'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KinesisRecordHandlerTest.testValidAndInv...'">
@@ -486,6 +502,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'OfferUpdateSerializationTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PartitioningUtilsTest.testPartition'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'PartitioningUtilsTest.testPartition'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -591,6 +615,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'KinesisRecordHandlerTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'KinesisRecordHandlerTest.testPartition'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'KinesisRecordHandlerTest.testPartition'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'KinesisRecordHandlerTest.testValidAndInvalidRecords'">
@@ -718,7 +750,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>116</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
