@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>422</Count>
+          <Count>425</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -209,6 +209,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Preferences...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'⌘,'</ShortCut>
+          <Description>Preferences...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
@@ -222,7 +230,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Evaluate Expression">
@@ -279,6 +287,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'KinesisRecordHandlerTest.testDeserializationFailure'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'KinesisRecordHandlerTest.testDeserializeFailure'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'KinesisRecordHandlerTest.testDeserializeFailure'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'KinesisRecordHandlerTest.testPartition'">
@@ -574,6 +590,22 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'testDeserializatio...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'testDeserializeFai...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'testDeserializeFai...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'testDeserializeSuc...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'testDeserializeSuc...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
