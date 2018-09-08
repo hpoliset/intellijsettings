@@ -81,6 +81,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'OfferUpdateAndFutureTest.testLogForRedri...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'OfferUpdateAndFutureTest.testLogForRedri...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'OfferUpdateProcessorTest (1)'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -174,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>534</Count>
+          <Count>540</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -390,6 +398,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'OPH-Server'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OfferUpdateAndFutureTest.testLogForRedriveAndCompleteFailedOffers'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'OfferUpdateAndFutureTest.testLogForRedriveAndCompleteFailedOffers'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -609,6 +625,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'OfferUpdateAndFutureTest.testLogForRedri...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'OfferUpdateAndFutureTest.testLogForRedri...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'OfferUpdateProcessorTest (1)'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -663,6 +687,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'OfferUpdateSerializationTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PartitioningUtilsTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'PartitioningUtilsTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PartitioningUtilsTest.testPartition'">
@@ -774,6 +806,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'testExclusionObjs()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'testLogForRedriveA...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'testLogForRedriveA...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1014,7 +1054,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>205</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
