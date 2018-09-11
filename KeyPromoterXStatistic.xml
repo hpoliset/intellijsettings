@@ -182,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>579</Count>
+          <Count>580</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -518,7 +518,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'PublishOfferUpdateIntegrationTest.pushOffer'</Description>
-          <Count>179</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PullShadowOfferUpdateIntegrationTest.pullOffer'">
@@ -590,7 +590,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in AGSPXPriceSubmitter (1)'">
@@ -1126,7 +1126,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
