@@ -302,7 +302,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in AGSPXPriceSubmitter'">
@@ -342,6 +342,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ExclusionsRWClientTest.testExclusionObjs'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'KinesisPartitionKeyGeneratorTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'KinesisPartitionKeyGeneratorTest'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -423,6 +431,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'OfferUpdateAndFutureTest.testLogForRedriveAndCompleteFailedOffers'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OfferUpdateKinesisPartitionKeyGeneratorTest (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'OfferUpdateKinesisPartitionKeyGeneratorTest (1)'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OfferUpdateProcessorTest (1)'">
@@ -609,6 +625,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'KinesisPartitionKeyGeneratorTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'KinesisPartitionKeyGeneratorTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'KinesisRecordHandlerTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -662,6 +686,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'OfferUpdateAndFutureTest.testLogForRedri...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OfferUpdateKinesisPartitionKeyGeneratorT...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'OfferUpdateKinesisPartitionKeyGeneratorT...'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -750,7 +782,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'PublishOfferUpdateIntegrationTest.pushOf...'</Description>
-          <Count>71</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PullShadowOfferUpdateIntegrationTest.pus...'">
