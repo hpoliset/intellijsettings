@@ -590,7 +590,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'PublishOfferUpdateIntegrationTest.pushOffer'</Description>
-          <Count>192</Count>
+          <Count>194</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PullShadowOfferUpdateIntegrationTest.pullOffer'">
@@ -870,7 +870,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'PublishOfferUpdateIntegrationTest.pushOf...'</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PullShadowOfferUpdateIntegrationTest.pus...'">
