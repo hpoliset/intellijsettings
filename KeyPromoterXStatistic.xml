@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>616</Count>
+          <Count>618</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -302,7 +302,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>23</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -375,6 +375,30 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'All in BGBOLSOfferUpdatePublisher'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ClusterAndRuleEvaluationContextHolderTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ClusterAndRuleEvaluationContextHolderTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ClusterAndRuleEvaluationContextHolderTest.process'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ClusterAndRuleEvaluationContextHolderTest.process'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ClusterAndRuleEvaluationContextHolderTest.testGetPricingConfiguration'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ClusterAndRuleEvaluationContextHolderTest.testGetPricingConfiguration'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DstOfferPresenceDeciderTest'">
@@ -689,6 +713,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ClusterAndRuleEvaluationContextHolderTes...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ClusterAndRuleEvaluationContextHolderTes...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'CustomDstOfferPresenceDeciderTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -918,7 +950,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'process()'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'processedRecords()'">
@@ -974,6 +1006,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'testExclusionObjs()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'testGetPricingConf...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'testGetPricingConf...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
