@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>645</Count>
+          <Count>648</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -686,7 +686,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>24</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in AGSPXOfferPriceHandler'">
@@ -713,11 +713,27 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'All in BGBOfferStateDeciders'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'All in BGBOfferStateDeciders'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ClusterAndRuleEvaluationContextHolderTes...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'ClusterAndRuleEvaluationContextHolderTes...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ClusterAndRuleEvaluationContextTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'ClusterAndRuleEvaluationContextTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1079,6 +1095,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All in AGSPXOfferPriceHandler'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All in BGBOfferStateDeciders (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'All in BGBOfferStateDeciders (1)'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DstOfferPresenceDeciderTest'">
