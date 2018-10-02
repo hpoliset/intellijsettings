@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>707</Count>
+          <Count>709</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -358,7 +358,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'All in AGSPXOfferPriceHandler'</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in AGSPXPriceSubmitter'">
@@ -614,7 +614,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'PublishOfferUpdateIntegrationTest.pushOffer'</Description>
-          <Count>285</Count>
+          <Count>287</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PullShadowOfferUpdateIntegrationTest.pullOffer'">
@@ -910,7 +910,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'PublishOfferUpdateIntegrationTest'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PublishOfferUpdateIntegrationTest.pushOf...'">
@@ -918,7 +918,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'PublishOfferUpdateIntegrationTest.pushOf...'</Description>
-          <Count>107</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PullShadowOfferUpdateIntegrationTest.pus...'">
