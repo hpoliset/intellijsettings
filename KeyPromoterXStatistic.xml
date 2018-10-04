@@ -177,6 +177,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'PricingRuleDeciderTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'PricingRuleDeciderTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'PricingRuleDeciderTest.process'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -206,7 +214,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'process()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'processedRecords()'">
@@ -230,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>738</Count>
+          <Count>741</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -342,7 +350,7 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'⌥⌘L'</ShortCut>
           <Description>Reformat Code</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Module">
@@ -615,6 +623,22 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'PartitioningUtilsTest.testPartition'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PricingRuleDeciderTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'PricingRuleDeciderTest'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PricingRuleDeciderTest.process (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'PricingRuleDeciderTest.process (1)'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PricingRuleDeciderTest.process'">
@@ -921,6 +945,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'PricingRuleDeciderTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'PricingRuleDeciderTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'PricingRuleDeciderTest.process'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1006,7 +1038,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'process()'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'processedRecords()'">
@@ -1289,6 +1321,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'PricingRuleDeciderTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PricingRuleDeciderTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'PricingRuleDeciderTest.process'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1374,7 +1414,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>295</Count>
+          <Count>306</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
