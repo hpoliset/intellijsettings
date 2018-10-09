@@ -254,7 +254,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>772</Count>
+          <Count>773</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -990,7 +990,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'PublishOfferUpdateIntegrationTest.pushOf...'</Description>
-          <Count>117</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PullBGBOfferUpdateIntegrationTest.pullOf...'">
