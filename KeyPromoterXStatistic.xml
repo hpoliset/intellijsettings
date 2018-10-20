@@ -249,6 +249,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'testGetUserIdByEmail()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'testGetUserIdByEmail()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'testValidAndInvali...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -262,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>806</Count>
+          <Count>809</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -711,6 +719,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ProfileRepositoryTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ProfileRepositoryTest.testGetUserIdByEmail'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ProfileRepositoryTest.testGetUserIdByEmail'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PublishOfferUpdateIntegrationTest.pushOffer'">
@@ -1406,7 +1422,7 @@
           <IdeaActionID>RunGradleTask.run</IdeaActionID>
           <ShortCut>'⌥⌘G'</ShortCut>
           <Description>Run Gradle Task...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -1609,6 +1625,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ProfileRepositoryTest.testGetUserIdByEmail'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ProfileRepositoryTest.testGetUserIdByEmail'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'PublishOfferUpdateIntegrationTest.pushOffer'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1710,7 +1734,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>311</Count>
+          <Count>315</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
