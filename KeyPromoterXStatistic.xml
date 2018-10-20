@@ -1198,7 +1198,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Tests in 'profile-se...'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'profile-server_test''">
@@ -1678,7 +1678,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>310</Count>
+          <Count>311</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
