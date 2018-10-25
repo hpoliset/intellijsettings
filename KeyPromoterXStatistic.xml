@@ -169,6 +169,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'OfferUpdateProcessorTestInduceFailures'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'OfferUpdateProcessorTestInduceFailures'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'PartitioningUtilsTest.testPartition'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -302,7 +310,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -638,7 +646,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'OfferUpdateProcessorTest'</Description>
-          <Count>42</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'OfferUpdateProcessorTest.process'">
@@ -679,6 +687,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'OfferUpdateProcessorTest.validRecordsWithHandlerForNetProceeds'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OfferUpdateProcessorTestInduceFailures'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'OfferUpdateProcessorTestInduceFailures'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PartitioningUtilsTest.testPartition'">
@@ -1030,7 +1046,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'OfferUpdateProcessorTest'</Description>
-          <Count>54</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OfferUpdateProcessorTest.process'">
@@ -1062,7 +1078,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'OfferUpdateProcessorTestInduceFailures'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'OfferUpdateSerializationTest'">
@@ -1766,7 +1782,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>322</Count>
+          <Count>326</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
