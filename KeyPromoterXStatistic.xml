@@ -769,6 +769,14 @@
           <Count>342</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PublishOfferUpdateIntegrationTest.pushOfferInRealMode'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'PublishOfferUpdateIntegrationTest.pushOfferInRealMode'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PullBGBOfferUpdateIntegrationTest.pullOffer'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1230,7 +1238,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'PublishOfferUpdateIntegrationTest.pushOf...'</Description>
-          <Count>124</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PullBGBOfferUpdateIntegrationTest.pullOf...'">
@@ -1359,6 +1367,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'pushOffer()'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'pushOfferInRealMode()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'pushOfferInRealMode()'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'settings'">
@@ -1695,6 +1711,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'PublishOfferUpdateIntegrationTest.pushOffer'</Description>
           <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PublishOfferUpdateIntegrationTest.pushOfferInRealMode'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PublishOfferUpdateIntegrationTest.pushOfferInRealMode'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PullBGBOfferUpdateIntegrationTest.pullOffer'">
