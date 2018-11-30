@@ -278,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>892</Count>
+          <Count>897</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -790,7 +790,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'PublishOfferUpdateIntegrationTest.pushOffer'</Description>
-          <Count>342</Count>
+          <Count>348</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PublishOfferUpdateIntegrationTest.pushOfferInRealMode'">
@@ -1262,7 +1262,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'PublishOfferUpdateIntegrationTest.pushOf...'</Description>
-          <Count>130</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PullBGBOfferUpdateIntegrationTest.pullOf...'">
