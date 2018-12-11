@@ -38,7 +38,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -278,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>900</Count>
+          <Count>904</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -782,7 +782,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'PublishOfferUpdateIntegrationTest.pushAllOffers'</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PublishOfferUpdateIntegrationTest.pushOffer'">
@@ -1255,6 +1255,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'PublishOfferUpdateIntegrationTest'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PublishOfferUpdateIntegrationTest.pushAl...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'PublishOfferUpdateIntegrationTest.pushAl...'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PublishOfferUpdateIntegrationTest.pushOf...'">
