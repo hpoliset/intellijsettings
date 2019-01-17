@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>51</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -38,7 +38,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -382,7 +382,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'⌘,'</ShortCut>
           <Description>Preferences...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -390,7 +390,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -398,7 +398,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>50</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Evaluate Expression">
@@ -414,6 +414,22 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild ...BOfferStateDeciders'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild ...profile-service-api'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Rebuild ...profile-service-api'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild Module 'profile-server'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Rebuild Module 'profile-server'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1366,7 +1382,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'build (1)'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'build (2)'">
@@ -1382,7 +1398,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'build'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'decryptMerchantAnd...()'">
@@ -1542,7 +1558,7 @@
           <IdeaActionID>RunGradleTask.run</IdeaActionID>
           <ShortCut>'⌥⌘G'</ShortCut>
           <Description>Run Gradle Task...</Description>
-          <Count>8</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -1870,7 +1886,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
