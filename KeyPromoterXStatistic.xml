@@ -1566,7 +1566,7 @@
           <IdeaActionID>RunGradleTask.run</IdeaActionID>
           <ShortCut>'⌥⌘G'</ShortCut>
           <Description>Run Gradle Task...</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
