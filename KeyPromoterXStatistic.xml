@@ -1425,6 +1425,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'profileSvc [clean build]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'profileSvc [clean build]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'pushAllOffers()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1558,7 +1566,7 @@
           <IdeaActionID>RunGradleTask.run</IdeaActionID>
           <ShortCut>'⌥⌘G'</ShortCut>
           <Description>Run Gradle Task...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
