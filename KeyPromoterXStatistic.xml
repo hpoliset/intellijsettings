@@ -1433,6 +1433,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'profileSvc:profile-server [:profile-serv...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'profileSvc:profile-server [:profile-serv...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'pushAllOffers()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
