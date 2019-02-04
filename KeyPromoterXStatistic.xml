@@ -2025,6 +2025,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="hari.polisetty@heartfulness.org">
+        <Item>
+          <IdeaActionID>GoogleLogin.LoginService</IdeaActionID>
+          <ShortCut>'⌃⇧⌘G'</ShortCut>
+          <Description>hari.polisetty@heartfulness.org</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
   </component>
 </application>
