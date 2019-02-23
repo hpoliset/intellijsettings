@@ -329,6 +329,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Execute Statement">
+        <Item>
+          <IdeaActionID>DBNavigator.Actions.Execute</IdeaActionID>
+          <ShortCut>'⌘⏎'</ShortCut>
+          <Description>Execute Statement</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Field...">
         <Item>
           <IdeaActionID>IntroduceField</IdeaActionID>
@@ -926,7 +934,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'profileSvc:profile-client [bootRun]'</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'profileSvc:profile-server [:profile-server:bootRun]'">
@@ -934,7 +942,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'profileSvc:profile-server [:profile-server:bootRun]'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -1510,7 +1518,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'profileSvc:profile-client [bootRun]'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'profileSvc:profile-server [:profile-serv...'">
@@ -1518,7 +1526,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'profileSvc:profile-server [:profile-serv...'</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pushAllOffers()'">
@@ -1974,7 +1982,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'profileSvc:profile-client [bootRun]'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'profileSvc:profile-server [:profile-server:bootRun]'">
@@ -1982,7 +1990,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'profileSvc:profile-server [:profile-server:bootRun]'</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
