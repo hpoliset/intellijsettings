@@ -934,7 +934,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'profileSvc:profile-client [bootRun]'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'profileSvc:profile-server [:profile-server:bootRun]'">
@@ -942,7 +942,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'profileSvc:profile-server [:profile-server:bootRun]'</Description>
-          <Count>16</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -974,7 +974,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>20</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1518,7 +1518,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'profileSvc:profile-client [bootRun]'</Description>
-          <Count>13</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'profileSvc:profile-server [:profile-serv...'">
@@ -1526,7 +1526,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'profileSvc:profile-server [:profile-serv...'</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'profileSvc:profile-server [clean build]'">
@@ -1998,7 +1998,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'profileSvc:profile-client [bootRun]'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'profileSvc:profile-server [:profile-server:bootRun]'">
@@ -2006,7 +2006,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'profileSvc:profile-server [:profile-server:bootRun]'</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
@@ -2038,7 +2038,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>27</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
