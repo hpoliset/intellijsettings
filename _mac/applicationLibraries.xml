@@ -9,7 +9,7 @@
     </library>
     <library name="lombok">
       <CLASSES>
-        <root url="jar:///Volumes/Unix/brazil-package-cache/packages/Lombok/Lombok-1.16.x.237695.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/lombok.jar!/" />
+        <root url="jar://$USER_HOME$/brazil-pkg-cache/packages/Lombok/Lombok-1.16.x.307079.0/RHEL5_64/DEV.STD.PTHREAD/build/lib/lombok.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
