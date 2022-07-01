@@ -164,6 +164,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="software.amazon.smithy.intellij">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="sonnenhut.liveedit.patch">
           <value>
             <PluginData>
