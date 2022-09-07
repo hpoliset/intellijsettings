@@ -7,5 +7,8 @@
     <driver id="redshift">
       <artifact id="Redshift" name="Redshift" use="true" version="2.1.0.1" />
     </driver>
+    <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver" />
+    <driver id="4d89576d-7049-4f0b-b5c1-2d14acf564cf" name="User Driver [2]" driver-class="java.sql.Driver" />
+    <driver id="df5e9cf8-f81b-4e50-adeb-412d10506365" name="User Driver [3]" driver-class="java.sql.Driver" />
   </component>
 </application>
