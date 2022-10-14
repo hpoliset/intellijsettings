@@ -1,0 +1,5 @@
+<application>
+  <component name="BlackCaimanRsyncSettings">
+    <option name="deleteRemoteFiles" value="false" />
+  </component>
+</application>
