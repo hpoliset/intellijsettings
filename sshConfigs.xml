@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dev-dsk-hpoliset-2a-bddb1f63.us-west-2.amazon.com" id="0a0aa86d-faaa-4a6f-9707-9dec69ee25d5" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="hpoliset" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
